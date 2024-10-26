@@ -1,5 +1,6 @@
 💻 Desenvolvedor Front-End | Estudante de ADS
-Olá! Sou um desenvolvedor front-end em constante aprimoramento, dedicado a criar interfaces modernas e eficientes. Atualmente, estou fortalecendo minhas habilidades em:
+Olá! Sou um desenvolvedor front-end em constante aprimoramento, dedicado a criar interfaces modernas e eficientes. 
+Atualmente, estou fortalecendo minhas habilidades em:
 
 HTML, CSS e JavaScript – para desenvolver interfaces responsivas e dinâmicas
 C e MySQL – para consolidar meus conhecimentos em lógica e bancos de dados
