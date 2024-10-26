@@ -33,5 +33,8 @@ Sociais:
 Estou aberto a colaborar em projetos open-source e ansioso por oportunidades que me ajudem a evoluir profissionalmente.
 Vamos criar algo incrível juntos?
 
+<br>
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=pie&theme=shadow_blue&custom_title=Linguagens&border_radius=16)
