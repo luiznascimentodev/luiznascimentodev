@@ -29,8 +29,8 @@ Sociais:
 🚀 O que você pode esperar de mim?
 - Comprometimento e aprendizado contínuo
 - Interesse em projetos colaborativos e metodologias ágeis
-- Curiosidade por novas ferramentas e tecnologias do universo web
-Estou aberto a colaborar em projetos open-source e ansioso por oportunidades que me ajudem a evoluir profissionalmente.
+- Curiosidade por novas ferramentas e tecnologias do universo web <br>
+Estou aberto a colaborar em projetos open-source e ansioso por oportunidades que me ajudem a evoluir profissionalmente.<br>
 Vamos criar algo incrível juntos?
 
 <br>
