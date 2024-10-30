@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQHyNzPXFzjfrg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729284332618?e=1735171200&v=beta&t=fmsUCB6MTppt5xe-eRN0f_KVT5MZTPIb9AK7Tsl-JVM">
 
 
-💻 Desenvolvedor Front-End | Estudante de ADS
+💻 Desenvolvedor Front-End | Estudante de ADS <br>
 Olá! Sou um desenvolvedor front-end em constante evolução, focado em criar interfaces modernas e funcionais. Atualmente, estou aprimorando minhas habilidades em:
 
 
