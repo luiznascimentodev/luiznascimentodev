@@ -1,38 +1,41 @@
+💻 Desenvolvedor Full Stack | Estudante de ADS 
 
-💻 Desenvolvedor Front-End | Estudante de ADS <br>
-Olá! Sou um desenvolvedor front-end em constante evolução, focado em criar interfaces modernas e funcionais. Atualmente, estou aprimorando minhas habilidades em:
+Olá! Sou um desenvolvedor em constante evolução, com foco em criar soluções web completas e eficientes. Atualmente trabalho com:
 
+### 🛠 Stack Principal:
+**Back-End:**
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-Para interfaces dinâmicas e responsivas:
+**Front-End:**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+**Banco de Dados:**
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
+### 🌐 Outras Habilidades:
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> com foco em performance e SEO
 
-Para ampliar meus conhecimentos em lógica e bancos de dados:
+### 📚 Formação Acadêmica:
+- Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo
+- Cursos complementares em desenvolvimento web e boas práticas de programação
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+### 🚀 O Que Ofereço:
+- Desenvolvimento de aplicações web completas (front-end e back-end)
+- Código limpo e seguindo boas práticas
+- Aprendizado contínuo e adaptação a novas tecnologias
+- Interesse em metodologias ágeis e trabalho em equipe
 
-
-
-Também tenho experiência com <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> aplicando boas práticas de SEO para melhorar a performance e visibilidade de sites nos motores de busca.
-
-Sociais:
+### 📫 Vamos Conversar?
+Estou aberto a oportunidades, colaborações em projetos open-source ou trocas de conhecimento.
 
 <a href="https://www.linkedin.com/in/luiznascimentodev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/luiznascimentodev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
-
-🎓 Formação Acadêmica
-- Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo, onde venho aprimorando minha capacidade técnica e aprendendo sobre as melhores práticas de desenvolvimento.
-
-🚀 O que você pode esperar de mim?
-- Comprometimento e aprendizado contínuo
-- Interesse em projetos colaborativos e metodologias ágeis
-- Curiosidade por novas ferramentas e tecnologias do universo web <br>
-Estou aberto a colaborar em projetos open-source e ansioso por oportunidades que me ajudem a evoluir profissionalmente.<br>
 Vamos criar algo incrível juntos?
-
-<br>
-<br>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=pie&theme=shadow_blue&custom_title=Linguagens&border_radius=16)
