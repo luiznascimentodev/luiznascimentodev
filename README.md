@@ -74,5 +74,13 @@ Vamos criar algo incrível juntos?
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiznascimentodev)
 
 ---
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=pie&theme=shadow_blue&custom_title=Linguagens&border_radius=16)
+<div align="center">
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8&custom_title=Linguagens%20Mais%20Usadas)
+
+
+</div>
+
