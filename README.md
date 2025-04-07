@@ -1,68 +1,72 @@
 # 💻 Desenvolvedor Full Stack | Estudante de ADS
 
-Olá! Sou um desenvolvedor em constante evolução, com foco em criar soluções web completas e eficientes. Atualmente trabalho com:
+Olá! Sou um desenvolvedor em constante evolução, com foco em criar **soluções web completas e eficientes**. Atualmente trabalho com tecnologias modernas no desenvolvimento front-end e back-end, sempre buscando as melhores práticas de desempenho, usabilidade e escalabilidade.
 
 ---
 
 ## 🛠 Stack Principal
 
-**Back-End:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+### 🔧 Back-End
+Tecnologias robustas e versáteis para construção de APIs, sistemas web e aplicações escaláveis.
 
-**Front-End:**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) — Linguagem base para desenvolvimento web dinâmico.
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) — Framework PHP elegante e expressivo para aplicações modernas.
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) — Ambiente JavaScript para desenvolvimento de back-end ágil e performático.
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) — Aplicações seguras e robustas, ideais para sistemas corporativos.
 
-**Banco de Dados:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎨 Front-End
+Tecnologias focadas em **experiência do usuário**, **design responsivo** e **interatividade fluida**.
+
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) — Framework progressivo para criar interfaces modernas e reativas.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) — Linguagem essencial para interações dinâmicas no navegador.
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) — Estrutura semântica e moderna para páginas web.
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) — Estilização avançada com foco em responsividade e design limpo.
+
+### 🗄 Banco de Dados
+Soluções para armazenamento eficiente e seguro de dados, com modelagem e performance.
+
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) — Banco de dados relacional poderoso e open-source.
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) — Ampla utilização em aplicações web, com excelente desempenho.
 
 ---
 
 ## 🌐 Outras Habilidades
 
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) — Criação de sites otimizados, focando em performance, responsividade e SEO técnico.
 
-**Performance e SEO**: Desenvolvimento de sites otimizados, rápidos e bem posicionados nos mecanismos de busca.
+### 💬 Soft Skills
 
-**Comunicação**: Clareza e objetividade ao lidar com equipes técnicas e não técnicas, facilitando a colaboração e a compreensão de requisitos.
-
-**Vendas**: Experiência na área comercial, com foco em entender as necessidades do cliente e oferecer soluções personalizadas.
-
-**Liderança**: Capacidade de organizar tarefas, motivar equipes e conduzir projetos com eficiência, garantindo entregas de qualidade.
+- **Comunicação**: Facilidade para transmitir ideias técnicas com clareza e adaptar a linguagem conforme o público.
+- **Vendas**: Experiência no relacionamento com clientes, negociação e entrega de valor através de soluções digitais.
+- **Liderança**: Organização de tarefas, condução de equipes e acompanhamento de projetos com foco em resultado.
+- **Trabalho em Equipe**: Espírito colaborativo, empatia e contribuição ativa em ambientes multidisciplinares.
 
 ---
 
-## 📚 Formação Acadêmica
+## 🎓 Formação Acadêmica
 
-- Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo  
-- Cursos complementares em desenvolvimento web e boas práticas de programação
+- Estudante de **Análise e Desenvolvimento de Sistemas** – Universidade Positivo  
+- Cursos complementares em desenvolvimento web, lógica de programação, boas práticas e metodologias ágeis.
 
 ---
 
 ## 🚀 O Que Ofereço
 
-- Desenvolvimento de aplicações web completas (front-end e back-end)  
-- Código limpo e seguindo boas práticas  
-- Aprendizado contínuo e adaptação a novas tecnologias  
-- Interesse em metodologias ágeis e trabalho em equipe
+- Desenvolvimento de **aplicações web completas**, do front-end ao back-end  
+- Código **limpo, reutilizável** e seguindo os padrões de mercado  
+- Aprendizado contínuo e **adaptação rápida a novas tecnologias**  
+- Interesse e vivência em **metodologias ágeis**, como Scrum e Kanban
 
 ---
 
 ## 📫 Vamos Conversar?
 
-Estou aberto a oportunidades, colaborações em projetos open-source ou trocas de conhecimento.
+Estou aberto a oportunidades profissionais, parcerias em projetos open-source ou trocas de conhecimento.  
+Vamos criar algo incrível juntos?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiznascimentodev/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiznascimentodev)
 
 ---
-
-Vamos criar algo incrível juntos?
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=pie&theme=shadow_blue&custom_title=Linguagens&border_radius=16)
