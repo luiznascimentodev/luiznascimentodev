@@ -1,4 +1,4 @@
-# 💻 Desenvolvedor Full Stack |
+# 💻 Desenvolvedor Full Stack 
 
 Olá! Sou um desenvolvedor em constante evolução, com foco em criar **soluções web completas e eficientes**. Atualmente trabalho com tecnologias modernas no desenvolvimento front-end e back-end, sempre buscando as melhores práticas de desempenho, usabilidade e escalabilidade.
 
