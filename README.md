@@ -1,38 +1,38 @@
-# 💻 Desenvolvedor de Software Full Stack
+# Desenvolvedor de Software | Node.js, NestJS, React, TypeScript
 
-Olá! Sou Desenvolvedor de Software Fullstack focado no ecossistema **Node.js**. Minha especialidade é construir APIs robustas e escaláveis com **NestJS** e **TypeScript**, e interfaces de usuário fluidas com **React.js**.
+Desenvolvedor de Software com foco principal em **Backend** utilizando o ecossistema **Node.js (NestJS, TypeScript)**. Especializado em construir e manter APIs RESTful robustas, escaláveis e testáveis.
 
-Sou apaixonado por aplicar conceitos de **Clean Architecture** e princípios **SOLID** para traduzir desafios de negócio complexos em software de alta qualidade, manutenível e eficiente.
+Possuo experiência complementar em **Frontend** com **React.js** e **Next.js** para a criação de interfaces de usuário eficientes. Meu foco é aplicar princípios de **Clean Architecture**, **SOLID** e **Testes Automatizados (Jest)** para garantir a qualidade, manutenibilidade e escalabilidade do software.
 
 ---
 
-## 🛠 Stack Foco (Principal)
-Tecnologias que utilizo ativamente para construir aplicações modernas, escaláveis e com foco em performance.
+## 🛠 Stack de Foco Principal
+Tecnologias que utilizo ativamente para construir aplicações de alta performance.
 
 ### 🔧 Back-End
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) — Ambiente de execução JavaScript focado em performance e escalabilidade.
-- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) — Framework Node.js progressivo para construir aplicações de back-end eficientes e testáveis.
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) — Superset do JavaScript que adiciona tipagem estática e melhora a manutenibilidade do código.
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) — Ambiente de execução JavaScript focado em performance.
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) — Framework Node.js para construir aplicações de back-end eficientes e testáveis.
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) — Superset do JavaScript que adiciona tipagem estática e melhora a manutenibilidade.
 
 ### 🎨 Front-End
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) — Biblioteca JavaScript para construir interfaces de usuário declarativas e reativas.
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) — Framework React para produção, focado em SSR, SSG e performance.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) — A base da interatividade web moderna.
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) — Biblioteca JavaScript para construção de interfaces de usuário declarativas.
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) — Framework React para produção (SSR, SSG, ISR).
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) — Linguagem base da interatividade web.
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄 Banco de Dados
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) — Sistema de banco de dados relacional objeto, robusto e extensível.
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) — Sistema de banco de dados relacional objeto (ORDBMS) robusto.
 
 ### 🧪 Testes & DevOps
-- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) — Framework de testes JavaScript focado em simplicidade (Testes Unitários, Integração).
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) — Plataforma para desenvolvimento, deploy e execução de aplicações em contêineres.
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) — Framework de testes JavaScript (Testes Unitários, Integração, E2E).
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) — Plataforma para desenvolvimento e deploy de aplicações em contêineres.
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) — Sistema de controle de versão distribuído.
 
 ---
 
 ## ⚙️ Experiência Prévia e Outras Tecnologias
-Tecnologias com as quais tenho experiência sólida em projetos anteriores e que complementam minha stack principal.
+Tecnologias com as quais possuo experiência sólida em projetos anteriores.
 
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -42,40 +42,38 @@ Tecnologias com as quais tenho experiência sólida em projetos anteriores e que
 
 ---
 
-## 🚀 O Que Ofereço
+## 🚀 Core Competencies & Foco Técnico
 - Desenvolvimento de APIs RESTful robustas e escaláveis com **NestJS**, seguindo princípios de **Clean Architecture**.
-- Criação de interfaces de usuário reativas, performáticas e fluidas com **React.js** e **Next.js**.
-- Foco em qualidade de código, boas práticas (SOLID) e cobertura de **testes automatizados (Jest)**.
-- Habilidade em traduzir regras de negócio complexas em soluções técnicas eficientes, graças ao meu background em Gestão Comercial.
-- Compromisso com **código limpo, organizado e fácil de manter**, facilitando a colaboração em equipe.
-- Fome de aprendizado, proatividade na resolução de problemas e adaptação rápida a novos desafios.
+- Criação de interfaces de usuário reativas e performáticas com **React.js** e **Next.js**.
+- Foco em qualidade de código, boas práticas (**SOLID**) e cobertura de **testes automatizados (Jest)**.
+- Experiência na tradução de regras de negócio em soluções técnicas eficientes, alinhando tecnologia aos objetivos do produto.
+- Desenvolvimento focado em **Clean Code** e **manutenibilidade** para facilitar a colaboração e a evolução de projetos.
+- Proatividade na resolução de problemas e adoção de novas tecnologias para otimização de performance e processos.
 
 ---
 
-### 💬 Soft Skills
+### 💬 Habilidades Comportamentais
 
-- **Comunicação**: Facilidade para transmitir ideias técnicas com clareza e adaptar a linguagem conforme o público.
-- **Visão de Produto**: Experiência em entender a dor do cliente, negociar e entregar valor através de soluções digitais.
-- **Liderança**: Organização de tarefas, condução de equipes e acompanhamento de projetos com foco em resultado.
-- **Trabalho em Equipe**: Espírito colaborativo, empatia e contribuição ativa em ambientes multidisciplinares.
+- **Comunicação Técnica:** Habilidade de articular conceitos técnicos complexos de forma clara para stakeholders (técnicos e não-técnicos).
+- **Visão de Produto:** Background comercial que facilita o entendimento das dores do cliente e a entrega de valor (ROI) através do software.
+- **Liderança e Gestão:** Experiência em organização de tarefas, gestão de equipes e acompanhamento de projetos com foco em KPIs.
+- **Colaboração:** Perfil colaborativo para atuar em ambientes multidisciplinares e ágeis (Scrum/Kanban).
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- Estudante de **Análise e Desenvolvimento de Sistemas** – Universidade Positivo
-- Curso completo de **Desenvolvimento Web Full Stack** – [DevClub](https://www.devclub.com.br)
-  _Formação prática e atualizada com foco em tecnologias modernas, projetos reais e mentoria direta._
-- Curso de **The Complete 2024 Web Development Bootcamp** – por **Dr. Angela Yu** (Udemy)
-  _Abrange HTML, CSS, JavaScript, Node.js, Express, MongoDB, React e mais, com foco em desenvolvimento full stack profissional._
-- Cursos complementares em desenvolvimento web, lógica de programação, boas práticas e metodologias ágeis.
+- **Análise e Desenvolvimento de Sistemas** (Cursando) – Universidade Positivo
+- **Desenvolvimento Web Full Stack** (Concluído) – [DevClub](https://www.devclub.com.br)
+  _Formação prática focada em tecnologias modernas, projetos reais e mentoria direta._
+- **The Complete 2024 Web Development Bootcamp** (Concluído) – por Dr. Angela Yu (Udemy)
+  _Abrange HTML, CSS, JavaScript, Node.js, Express, MongoDB, React e mais._
 
 ---
 
-## 📫 Vamos Conversar?
+## 📫 Contato
 
-Estou aberto a oportunidades profissionais, parcerias em projetos open-source ou trocas de conhecimento.
-Vamos criar algo incrível juntos?
+Estou aberto a novas oportunidades e desafios profissionais. Entre em contato para discutirmos como posso agregar valor à sua equipe.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiznascimentodev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiznascimentodev)
