@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=%Luiz%20Felippe%20Nascimento&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Luiz%20Felippe%20Nascimento&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" width="100%"/>
 
   ### 🏗️ Software Engineer | Full Stack & Architecture Enthusiast
   
