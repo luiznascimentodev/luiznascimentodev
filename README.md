@@ -18,13 +18,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** focado em **Engenharia de Software** de verdade. Meu objetivo não é apenas fazer o código funcionar, mas criar sistemas **escaláveis, testáveis e de fácil manutenção**.
+Sou um **Desenvolvedor Full Stack** apaixonado por transformar ideias em software real. Atuo como **freelancer** e desenvolvo projetos pessoais para aprimorar minhas habilidades em arquitetura e código limpo.
 
-Atualmente, atuo desenhando arquiteturas desacopladas e liderando iniciativas técnicas que unem performance (<100ms latency) com regras de negócio complexas.
+Meu foco não é apenas escrever linhas de código, mas criar aplicações que sejam funcionais, organizadas e fáceis de manter. Acredito que a prática constante é o melhor caminho para a excelência técnica.
 
-* 🔭 **Foco atual:** Arquitetura de Microsserviços, TDD e Otimização de Performance em Node.js.
-* 💡 **Filosofia:** "Software funcionando é apenas o começo; a excelência está na manutenibilidade e na arquitetura."
-* 🌱 **Estudando:** Padrões avançados de Cloud (AWS) e System Design.
+* 🔭 **Foco atual:** Desenvolvimento de soluções completas (SaaS e Web Apps) e aprofundamento em Node.js e React.
+* 💡 **Filosofia:** "Construir, testar e evoluir. O código deve resolver problemas reais."
+* 🌱 **Estudando:** Arquitetura de Software e boas práticas de desenvolvimento (Clean Code).
 
 ---
 
