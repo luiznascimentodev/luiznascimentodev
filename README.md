@@ -100,9 +100,8 @@ Organizo meu conhecimento não apenas por linguagem, mas por **capacidade de eng
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiznascimentodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=tokyonight&hide_border=true"/>
+</div
 
 <br>
 
