@@ -1,89 +1,111 @@
-# Desenvolvedor de Software | Node.js, NestJS, React, TypeScript
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Luiz%20Felippe%20Nascimento&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-Desenvolvedor de Software com foco principal em **Backend** utilizando o ecossistema **Node.js (NestJS, TypeScript)**. Especializado em construir e manter APIs RESTful robustas, escaláveis e testáveis.
+  ### 🏗️ Software Engineer | Full Stack & Architecture Enthusiast
+  
+  <p align="center">
+    <b>Node.js & NestJS Expert</b> • <b>React Ecosystem</b> • <b>Clean Architecture</b> • <b>AWS Cloud</b>
+  </p>
 
-Possuo experiência complementar em **Frontend** com **React.js** e **Next.js** para a criação de interfaces de usuário eficientes. Meu foco é aplicar princípios de **Clean Architecture**, **SOLID** e **Testes Automatizados (Jest)** para garantir a qualidade, manutenibilidade e escalabilidade do software.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felippe-nascimento/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luiznascimento.dev.br)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfelippenasc@gmail.com)
 
----
-
-## 🛠 Stack de Foco Principal
-Tecnologias que utilizo ativamente para construir aplicações de alta performance.
-
-### 🔧 Back-End
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) — Ambiente de execução JavaScript focado em performance.
-- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) — Framework Node.js para construir aplicações de back-end eficientes e testáveis.
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) — Superset do JavaScript que adiciona tipagem estática e melhora a manutenibilidade.
-
-### 🎨 Front-End
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) — Biblioteca JavaScript para construção de interfaces de usuário declarativas.
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) — Framework React para produção (SSR, SSG, ISR).
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) — Linguagem base da interatividade web.
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄 Banco de Dados
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) — Sistema de banco de dados relacional objeto (ORDBMS) robusto.
-
-### 🧪 Testes & DevOps
-- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) — Framework de testes JavaScript (Testes Unitários, Integração, E2E).
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) — Plataforma para desenvolvimento e deploy de aplicações em contêineres.
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) — Sistema de controle de versão distribuído.
+</div>
 
 ---
 
-## ⚙️ Experiência Prévia e Outras Tecnologias
-Tecnologias com as quais possuo experiência sólida em projetos anteriores.
+### 👨‍💻 Sobre Mim
 
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+Sou um **Desenvolvedor Full Stack** focado em **Engenharia de Software** de verdade. Meu objetivo não é apenas fazer o código funcionar, mas criar sistemas **escaláveis, testáveis e de fácil manutenção**.
 
----
+Atualmente, atuo desenhando arquiteturas desacopladas e liderando iniciativas técnicas que unem performance (<100ms latency) com regras de negócio complexas.
 
-## 🚀 Core Competencies & Foco Técnico
-- Desenvolvimento de APIs RESTful robustas e escaláveis com **NestJS**, seguindo princípios de **Clean Architecture**.
-- Criação de interfaces de usuário reativas e performáticas com **React.js** e **Next.js**.
-- Foco em qualidade de código, boas práticas (**SOLID**) e cobertura de **testes automatizados (Jest)**.
-- Experiência na tradução de regras de negócio em soluções técnicas eficientes, alinhando tecnologia aos objetivos do produto.
-- Desenvolvimento focado em **Clean Code** e **manutenibilidade** para facilitar a colaboração e a evolução de projetos.
-- Proatividade na resolução de problemas e adoção de novas tecnologias para otimização de performance e processos.
+* 🔭 **Foco atual:** Arquitetura de Microsserviços, TDD e Otimização de Performance em Node.js.
+* 💡 **Filosofia:** "Software funcionando é apenas o começo; a excelência está na manutenibilidade e na arquitetura."
+* 🌱 **Estudando:** Padrões avançados de Cloud (AWS) e System Design.
 
 ---
 
-### 💬 Habilidades Comportamentais
+### 🛠️ Arsenal Técnico
 
-- **Comunicação Técnica:** Habilidade de articular conceitos técnicos complexos de forma clara para stakeholders (técnicos e não-técnicos).
-- **Visão de Produto:** Background comercial que facilita o entendimento das dores do cliente e a entrega de valor (ROI) através do software.
-- **Liderança e Gestão:** Experiência em organização de tarefas, gestão de equipes e acompanhamento de projetos com foco em KPIs.
-- **Colaboração:** Perfil colaborativo para atuar em ambientes multidisciplinares e ágeis (Scrum/Kanban).
+Organizo meu conhecimento não apenas por linguagem, mas por **capacidade de engenharia**.
+
+#### 🧠 Core & Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+#### 🎨 Frontend & Interface
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🏗️ Arquitetura & Qualidade (O Diferencial)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Arch-Focus-000000?style=for-the-badge&logo=readthedocs&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### 🕰️ Experiência Prévia (Legacy Master)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🎓 Formação Acadêmica
+### 🏆 Projetos em Destaque
 
-- **Análise e Desenvolvimento de Sistemas** (Cursando) – Universidade Positivo
-- **Desenvolvimento Web Full Stack** (Concluído) – [DevClub](https://www.devclub.com.br)
-  _Formação prática focada em tecnologias modernas, projetos reais e mentoria direta._
-- **The Complete 2024 Web Development Bootcamp** (Concluído) – por Dr. Angela Yu (Udemy)
-  _Abrange HTML, CSS, JavaScript, Node.js, Express, MongoDB, React e mais._
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 MVP CRM</h3>
+      <p align="center">Sistema de Gestão de Relacionamento (Backend Focus)</p>
+      <p>Projeto focado puramente em <b>Excelência de Engenharia</b>. Desenvolvido para demonstrar a aplicação prática de arquitetura limpa em cenários complexos.</p>
+      <p>
+        ✔️ <b>Clean Architecture & DDD</b><br>
+        ✔️ <b>TDD (Test Driven Development)</b><br>
+        ✔️ <b>Decoupled Modules</b>
+      </p>
+      <div align="center">
+        <a href="https://github.com/luiznascimentodev/mvp-crm">
+          <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-GitHub-100000?style=flat-square&logo=github">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 Plano Mestre (SaaS)</h3>
+      <p align="center">Plataforma de Gestão de Estudos (Production Ready)</p>
+      <p>SaaS completo desenvolvido do zero, focado em alta performance e experiência do usuário.</p>
+      <p>
+        ✔️ <b>Performance (<100ms Latency)</b><br>
+        ✔️ <b>Gamificação & Analytics</b><br>
+        ✔️ <b>CI/CD & AWS Infra</b>
+      </p>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/SaaS-Production-success?style=flat-square">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contato
-
-Estou aberto a novas oportunidades e desafios profissionais. Entre em contato para discutirmos como posso agregar valor à sua equipe.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiznascimentodev/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiznascimentodev)
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiznascimentodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8&custom_title=Linguagens%20Mais%20Usadas)
+<br>
 
+<div align="center">
+  <i>"Qualidade não é um ato, é um hábito." — Aristóteles (e Clean Coders)</i>
 </div>
