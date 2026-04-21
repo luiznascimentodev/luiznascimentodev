@@ -2,10 +2,10 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Luiz%20Felippe%20Nascimento&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" width="100%"/>
 
-  ### 🏗️ Software Engineer | Full Stack & Architecture Enthusiast
+  ### 🏗️ Desenvolvedor PHP / Laravel & Fullstack
   
   <p align="center">
-    <b>Node.js & NestJS Expert</b> • <b>React Ecosystem</b> • <b>Clean Architecture</b> • <b>AWS Cloud</b>
+    <b>Ecossistema PHP & Laravel</b> • <b>React & React Native</b> • <b>APIs RESTful</b> • <b>Clean Architecture</b>
   </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felippe-nascimento/)
@@ -18,43 +18,40 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** apaixonado por transformar ideias em software real. Atuo como **freelancer** e desenvolvo projetos pessoais para aprimorar minhas habilidades em arquitetura e código limpo.
+Sou um **Desenvolvedor Fullstack** com sólida expertise no ecossistema PHP/Laravel e JavaScript (React/React Native). Tenho foco na união entre profunda capacidade técnica e visão estratégica, escrevendo código estruturado para a web e mobile.
 
-Meu foco não é apenas escrever linhas de código, mas criar aplicações que sejam funcionais, organizadas e fáceis de manter. Acredito que a prática constante é o melhor caminho para a excelência técnica.
+Meu objetivo diário não é apenas escrever linhas de código, mas criar e consumir APIs RESTful que sejam performáticas, seguras e fáceis de manter. Atuo diretamente na manutenção de aplicações complexas, garantindo a estabilidade de sistemas legados enquanto planejo sua transição para arquiteturas modernas.
 
-* 🔭 **Foco atual:** Desenvolvimento de soluções completas (SaaS e Web Apps) e aprofundamento em Node.js e React.
-* 💡 **Filosofia:** "Construir, testar e evoluir. O código deve resolver problemas reais."
-* 🌱 **Estudando:** Arquitetura de Software e boas práticas de desenvolvimento (Clean Code).
+* 🔭 **Foco atual:** Construção de APIs REST/RESTful em Laravel, modelagem de banco de dados (MySQL/MongoDB) e integração com interfaces React/React Native.
+* 💡 **Filosofia:** "Construir, testar e evoluir. O código deve ser limpo e focado no negócio."
+* 🌱 **Estudando:** Aprofundamento contínuo em Clean Code, princípios SOLID e TDD.
 
 ---
 
 ### 🛠️ Arsenal Técnico
 
-Organizo meu conhecimento não apenas por linguagem, mas por **capacidade de engenharia**.
+Organizo meu conhecimento com foco na construção de arquiteturas web robustas e APIs padronizadas.
 
-#### 🧠 Core & Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-#### 🎨 Frontend & Interface
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🏗️ Arquitetura & Qualidade (O Diferencial)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Arch-Focus-000000?style=for-the-badge&logo=readthedocs&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### 🕰️ Experiência Prévia (Legacy Master)
+#### 🐘 Core & Backend (Ecossistema Principal)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+#### 🎨 Frontend & Mobile Interface
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### 🗄️ Dados & Arquitetura de Software
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful%20API-Focus-000000?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-Test%20Driven-success?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-Quality-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -65,11 +62,11 @@ Organizo meu conhecimento não apenas por linguagem, mas por **capacidade de eng
     <td width="50%">
       <h3 align="center">🚀 MVP CRM</h3>
       <p align="center">Sistema de Gestão de Relacionamento (Backend Focus)</p>
-      <p>Projeto focado puramente em <b>Excelência de Engenharia</b>. Desenvolvido para demonstrar a aplicação prática de arquitetura limpa em cenários complexos.</p>
+      <p>Projeto focado puramente em <b>Excelência de Engenharia</b>, modelagem de dados e boas práticas de código.</p>
       <p>
-        ✔️ <b>Clean Architecture & DDD</b><br>
+        ✔️ <b>APIs RESTful Modernas</b><br>
         ✔️ <b>TDD (Test Driven Development)</b><br>
-        ✔️ <b>Decoupled Modules</b>
+        ✔️ <b>SOLID & Clean Code</b>
       </p>
       <div align="center">
         <a href="https://github.com/luiznascimentodev/mvp-crm">
@@ -79,12 +76,12 @@ Organizo meu conhecimento não apenas por linguagem, mas por **capacidade de eng
     </td>
     <td width="50%">
       <h3 align="center">🎓 Plano Mestre (SaaS)</h3>
-      <p align="center">Plataforma de Gestão de Estudos (Production Ready)</p>
-      <p>SaaS completo desenvolvido do zero, focado em alta performance e experiência do usuário.</p>
+      <p align="center">Plataforma de Gestão Financeira e Estudos</p>
+      <p>SaaS completo desenvolvido do zero. Otimização de consultas de banco de dados relacionais para performance superior.</p>
       <p>
-        ✔️ <b>Performance (<100ms Latency)</b><br>
-        ✔️ <b>Gamificação & Analytics</b><br>
-        ✔️ <b>CI/CD & AWS Infra</b>
+        ✔️ <b>Ecossistema PHP/Laravel</b><br>
+        ✔️ <b>Interface React Nativa</b><br>
+        ✔️ <b>Integração de APIs REST</b>
       </p>
       <div align="center">
         <a href="#">
@@ -101,7 +98,7 @@ Organizo meu conhecimento não apenas por linguagem, mas por **capacidade de eng
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=tokyonight&hide_border=true"/>
-</div
+</div>
 
 <br>
 
