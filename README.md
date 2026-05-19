@@ -107,14 +107,6 @@ Tenho buscado evoluir com uma base prática: escrever código simples de manter,
 - Uso Git, Docker, testes automatizados e documentação de API como parte do desenvolvimento.
 - Tenho interesse especial em backend, dados, automação, integrações e produtos B2B.
 
----
-
-## GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luiznascimentodev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</div>
 
 ---
 
