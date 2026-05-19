@@ -1,107 +1,123 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Luiz%20Felippe%20Nascimento&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header" width="100%"/>
 
-  ### 🏗️ Desenvolvedor PHP / Laravel & Fullstack
-  
-  <p align="center">
-    <b>Ecossistema PHP & Laravel</b> • <b>React & React Native</b> • <b>APIs RESTful</b> • <b>Clean Architecture</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=210&section=header&text=Luiz%20Felippe%20Nascimento&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Luiz Felippe Nascimento" width="100%"/>
+
+  <h3>Desenvolvedor Full Stack | Python, Node.js, React & TypeScript</h3>
+
+  <p>
+    Construindo APIs, produtos web e pipelines de dados com foco em performance, clareza e entrega real.
   </p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felippe-nascimento/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luiznascimento.dev.br)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfelippenasc@gmail.com)
+  <p>
+    <a href="https://www.linkedin.com/in/luiz-felippe-nascimento/">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://luiznascimento.dev.br">
+      <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:luizfelippenasc@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
+## Sobre
 
-Sou um **Desenvolvedor Fullstack** com sólida expertise no ecossistema PHP/Laravel e JavaScript (React/React Native). Tenho foco na união entre profunda capacidade técnica e visão estratégica, escrevendo código estruturado para a web e mobile.
+Sou desenvolvedor Full Stack em formação em Análise e Desenvolvimento de Sistemas, com foco em backend, APIs REST, dados e aplicações web modernas.
 
-Meu objetivo diário não é apenas escrever linhas de código, mas criar e consumir APIs RESTful que sejam performáticas, seguras e fáceis de manter. Atuo diretamente na manutenção de aplicações complexas, garantindo a estabilidade de sistemas legados enquanto planejo sua transição para arquiteturas modernas.
+Meu trabalho atual está concentrado no **CNPJ Discovery**, uma plataforma real de inteligência comercial B2B que processa dados públicos de empresas brasileiras e transforma esses dados em leads pesquisáveis para times de vendas, growth e marketing.
 
-* 🔭 **Foco atual:** Construção de APIs REST/RESTful em Laravel, modelagem de banco de dados (MySQL/MongoDB) e integração com interfaces React/React Native.
-* 💡 **Filosofia:** "Construir, testar e evoluir. O código deve ser limpo e focado no negócio."
-* 🌱 **Estudando:** Aprofundamento contínuo em Clean Code, princípios SOLID e TDD.
+Tenho buscado evoluir com uma base prática: escrever código simples de manter, modelar dados com cuidado, criar APIs bem documentadas, testar o que importa e publicar aplicações em ambientes próximos de produção.
 
----
-
-### 🛠️ Arsenal Técnico
-
-Organizo meu conhecimento com foco na construção de arquiteturas web robustas e APIs padronizadas.
-
-#### 🐘 Core & Backend (Ecossistema Principal)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-#### 🎨 Frontend & Mobile Interface
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### 🗄️ Dados & Arquitetura de Software
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful%20API-Focus-000000?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-Test%20Driven-success?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-Quality-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Busco oportunidades como Desenvolvedor Júnior ou Estágio** para atuar com Python, Node.js, TypeScript, SQL, cloud, automação e boas práticas de engenharia.
 
 ---
 
-### 🏆 Projetos em Destaque
+## Stack Principal
+
+### Backend e Dados
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Engenharia e Infra
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+---
+
+## Projeto em Destaque
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚀 MVP CRM</h3>
-      <p align="center">Sistema de Gestão de Relacionamento (Backend Focus)</p>
-      <p>Projeto focado puramente em <b>Excelência de Engenharia</b>, modelagem de dados e boas práticas de código.</p>
+    <td>
+      <h3>CNPJ Discovery</h3>
+      <p><strong>Plataforma de inteligência comercial e prospecção B2B</strong></p>
       <p>
-        ✔️ <b>APIs RESTful Modernas</b><br>
-        ✔️ <b>TDD (Test Driven Development)</b><br>
-        ✔️ <b>SOLID & Clean Code</b>
+        Sistema full stack para ingestão, consulta, enriquecimento e exportação de dados de empresas brasileiras.
+        O projeto trabalha com grande volume de registros de CNPJ, API REST, filtros avançados, cache, paginação por cursor,
+        frontend moderno e deploy containerizado.
       </p>
-      <div align="center">
-        <a href="https://github.com/luiznascimentodev/mvp-crm">
-          <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-GitHub-100000?style=flat-square&logo=github">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 Plano Mestre (SaaS)</h3>
-      <p align="center">Plataforma de Gestão Financeira e Estudos</p>
-      <p>SaaS completo desenvolvido do zero. Otimização de consultas de banco de dados relacionais para performance superior.</p>
       <p>
-        ✔️ <b>Ecossistema PHP/Laravel</b><br>
-        ✔️ <b>Interface React Nativa</b><br>
-        ✔️ <b>Integração de APIs REST</b>
+        <strong>Stack:</strong> Python, FastAPI, SQLAlchemy async, PostgreSQL, Redis, Polars, React, TypeScript, Vite, Tailwind CSS, Docker, Docker Compose e Nginx.
       </p>
-      <div align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/SaaS-Production-success?style=flat-square">
+      <ul>
+        <li>Pipeline ETL para processar dados públicos da Receita Federal.</li>
+        <li>API REST com filtros por CNPJ, razão social, nome fantasia, CNAE, UF e município.</li>
+        <li>Consultas otimizadas com índices seletivos, cache Redis e paginação por cursor.</li>
+        <li>Motor de enriquecimento para descoberta de sites e e-mails corporativos.</li>
+        <li>Interface web para pesquisa, análise e exportação CSV.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/luiznascimentodev/cnpj-discovery">
+          <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/>
         </a>
-      </div>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+## Como Trabalho
+
+- Transformo requisito de negócio em API, banco de dados, interface e fluxo de entrega.
+- Prefiro soluções simples, observáveis e fáceis de manter.
+- Uso Git, Docker, testes automatizados e documentação de API como parte do desenvolvimento.
+- Tenho interesse especial em backend, dados, automação, integrações e produtos B2B.
+
+---
+
+## GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luiznascimentodev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiznascimentodev&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <i>"Qualidade não é um ato, é um hábito." — Aristóteles (e Clean Coders)</i>
+  <strong>Python • Node.js • TypeScript • React • PostgreSQL • Docker • APIs REST</strong>
 </div>
